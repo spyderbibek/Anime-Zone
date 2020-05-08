@@ -4,7 +4,7 @@ AnimeZone is an Android App for streaming and downloading Anime **(FREE AND NO A
 
 [CLICK HERE TO DOWNLOAD THE APP]()
 
-![image](https://cdn.discordapp.com/attachments/341672347746697216/702614089419194378/anyme_img.png)=
+![image](https://user-images.githubusercontent.com/9642701/81381830-12038d80-912d-11ea-87c6-1b584fd55302.png)=
 
 # App Features
 
