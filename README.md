@@ -1,4 +1,4 @@
-# AnimeZone
+# AnimeZone 
 
 AnimeZone is an Android App for streaming and downloading Anime **(FREE AND NO ADS!)**
 
@@ -23,7 +23,7 @@ and more in the coming future...
 
 ## Things you should know
 
-* **AnimeZone requires no app permission**. So your privacy is completely safe
+* **AnimeZone doesn't touch anything in your phone so your privacy is completely safe**.
 * You need at least Android 4.4
 * You can request new features and report any bugs or issue
 * Currently AnimeZone uses gogoanime as it's source! Other sources will also be added in future updates
