@@ -27,8 +27,8 @@ and more in the coming future...
 
 * **AnimeZone doesn't touch anything in your phone so your privacy is completely safe**.
 * You need at least Android 4.4
-* You can request new features and report any bugs or issue
-* Currently AnimeZone uses various anime sites including anilist as it's source! Other sources will also be added in future updates
+* You can request new features and report any bugs or issue at our discord server
+* Currently AnimeZone uses various public APIs (anilist and myanimelist) as it's source for anime details as for watchhistory tracking, video links are scraped from various 3rd party anime sites! Other sources will also be added in future updates
 
 
 # How is AnimeZone built?
