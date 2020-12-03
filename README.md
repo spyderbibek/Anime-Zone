@@ -5,9 +5,11 @@ AnimeZone is an Android App for streaming and downloading Anime **(FREE AND NO A
 [CLICK HERE TO DOWNLOAD THE APP](https://github.com/spyderbibek/Anime-Zone/releases)
 
 Follow the development on the official Discord server:
+
 ![Discord Banner 3](https://discordapp.com/api/guilds/512157790551408640/widget.png?style=banner3)
 
 You can help translate the app!
+
 [![Crowdin](https://badges.crowdin.net/animezone/localized.svg)](https://crowdin.com/project/animezone)
 
 ![image](https://user-images.githubusercontent.com/9642701/81381830-12038d80-912d-11ea-87c6-1b584fd55302.png)=
