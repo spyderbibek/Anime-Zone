@@ -2,7 +2,7 @@
 
 AnimeZone is an Android App for streaming and downloading Anime **(FREE AND NO ADS!)**
 
-[CLICK HERE TO DOWNLOAD THE APP](https://github.com/spyderbibek/Anime-Zone/releases)
+[CLICK HERE TO DOWNLOAD THE APP](https://animezone.info/animezone.apk)
 
 Follow the development on the official Discord server:
 
@@ -12,19 +12,24 @@ You can help translate the app!
 
 [![Crowdin](https://badges.crowdin.net/animezone/localized.svg)](https://crowdin.com/project/animezone)
 
-![image](https://user-images.githubusercontent.com/9642701/81381830-12038d80-912d-11ea-87c6-1b584fd55302.png)=
+Check our official website for download link, features list and screnshots
+[Website Link](https://animezone.info)
 
 # App Features
 
-* Easy way to download or stream your favourite anime
-* Multiple sources for streaming or downloading
-* Ability to use external application **(MXPlayer, VLC, IDM, ADM)** for both downloading and streaming
-* View details about anime movies and anime shows
-* Dark mode
-* See a list of all popular, ongoing and airing anime shows, movies and OVAs
-* Save a list of your favorite anime
-* Search for shows based on **filters**
-* Available on Android and hopefully on IOS soon.
+* AnimeZone has clean, responsive and compact user interface
+* Sync and Manage your anime on MyAnimeList(MAL), Anilist and more.
+* Huge library of both subbed and dubbed anime which are updated regularly.
+* Fast streaming and downloading with multiple servers in multiple video quality.
+* AnimeZone is 100% AdFree for uninterrupted streaming experience.
+* View detailed info of any anime ( Prequel, Sequels, reviews, recommendations )
+* Easily view your anime release schedule without leaving the app
+* Discover anime of any genre according to your preference and easily find what you wanna watch next.
+* Feature to use external application ( MXPlayer, VLC, IDM, ADM ) for both downloading and streaming
+* Supports Android TV and VLC cast feature for PC.
+* You can customize look and feel of AnimeZone according to your preference.
+* Supports batch downloading for any anime you choose with IDM or any applications
+* Read filtered anime and manga related news with ease in the app
 
 and more in the coming future...
 
@@ -39,5 +44,5 @@ and more in the coming future...
 
 # How is AnimeZone built?
 
-AnimeZone is build using Flutter Framework. Therefore it will work on both Android and IOS.
+AnimeZone is build using Flutter Framework. For now it's available for Android but i am will be releasing it for more platform in the future.
 [CLICK HERE TO JOIN OUR DISCORD](https://discord.gg/YV4GSyr)
